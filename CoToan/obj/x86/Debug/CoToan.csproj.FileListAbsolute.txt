@@ -1,0 +1,30 @@
+C:\Users\Thanh-Nguyen\Desktop\CoToan\CoToan\bin\Debug\CoToan.exe
+C:\Users\Thanh-Nguyen\Desktop\CoToan\CoToan\bin\Debug\CoToan.pdb
+C:\Users\Thanh-Nguyen\Desktop\CoToan\CoToan\obj\x86\Debug\CoToan.FormKhoiDong.resources
+C:\Users\Thanh-Nguyen\Desktop\CoToan\CoToan\obj\x86\Debug\CoToan.FormLuaChonCheDoChoi.resources
+C:\Users\Thanh-Nguyen\Desktop\CoToan\CoToan\obj\x86\Debug\CoToan.Properties.Resources.resources
+C:\Users\Thanh-Nguyen\Desktop\CoToan\CoToan\obj\x86\Debug\CoToan.csproj.GenerateResource.Cache
+C:\Users\Thanh-Nguyen\Desktop\CoToan\CoToan\obj\x86\Debug\CoToan.exe
+C:\Users\Thanh-Nguyen\Desktop\CoToan\CoToan\obj\x86\Debug\CoToan.pdb
+C:\Users\Thanh-Nguyen\Desktop\CoToan\CoToan\obj\x86\Debug\CoToan.FormBanCo.resources
+C:\Users\Thanh-Nguyen\Desktop\CoToan\CoToan\obj\x86\Debug\CoToan.csprojResolveAssemblyReference.cache
+C:\Users\Thanh-Nguyen\Desktop\CoToan - Copy\CoToan\obj\x86\Debug\CoToan.exe
+C:\Users\Thanh-Nguyen\Desktop\CoToan - Copy\CoToan\obj\x86\Debug\CoToan.pdb
+C:\Users\Thanh-Nguyen\Desktop\CoToan - Copy\CoToan\bin\Debug\CoToan.exe
+C:\Users\Thanh-Nguyen\Desktop\CoToan - Copy\CoToan\bin\Debug\CoToan.pdb
+C:\Users\Thanh-Nguyen\Desktop\CoToan - Copy\CoToan\obj\x86\Debug\CoToan.csprojResolveAssemblyReference.cache
+C:\Users\Thanh-Nguyen\Desktop\CoToan - Copy\CoToan\obj\x86\Debug\CoToan.FormBanCo.resources
+C:\Users\Thanh-Nguyen\Desktop\CoToan - Copy\CoToan\obj\x86\Debug\CoToan.FormKhoiDong.resources
+C:\Users\Thanh-Nguyen\Desktop\CoToan - Copy\CoToan\obj\x86\Debug\CoToan.FormLuaChonCheDoChoi.resources
+C:\Users\Thanh-Nguyen\Desktop\CoToan - Copy\CoToan\obj\x86\Debug\CoToan.Properties.Resources.resources
+C:\Users\Thanh-Nguyen\Desktop\CoToan - Copy\CoToan\obj\x86\Debug\CoToan.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HK Moi\C#\CoToan\obj\x86\Debug\CoToan.exe
+C:\Users\Administrator\Desktop\HK Moi\C#\CoToan\obj\x86\Debug\CoToan.pdb
+C:\Users\Administrator\Desktop\HK Moi\C#\CoToan\bin\Debug\CoToan.exe
+C:\Users\Administrator\Desktop\HK Moi\C#\CoToan\bin\Debug\CoToan.pdb
+C:\Users\Administrator\Desktop\HK Moi\C#\CoToan\obj\x86\Debug\CoToan.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HK Moi\C#\CoToan\obj\x86\Debug\CoToan.FormBanCo.resources
+C:\Users\Administrator\Desktop\HK Moi\C#\CoToan\obj\x86\Debug\CoToan.FormKhoiDong.resources
+C:\Users\Administrator\Desktop\HK Moi\C#\CoToan\obj\x86\Debug\CoToan.FormLuaChonCheDoChoi.resources
+C:\Users\Administrator\Desktop\HK Moi\C#\CoToan\obj\x86\Debug\CoToan.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HK Moi\C#\CoToan\obj\x86\Debug\CoToan.csproj.GenerateResource.Cache
